@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi There 😊
+This is a small project demonstrating Dynamic Java Programming.
+This is a GUI based java project.
+It containg the necessary understanding of basic J components of Java.
+Contains all the basic Features.
 
-<!--
-**deepak12321/deepak12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+References:- 
+* Introduction to Java Programming and Data Structures by Y. Daniel Lian.
+* GeeksforGeeks
+* tutorialspoint
